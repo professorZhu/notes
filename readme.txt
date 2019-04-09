@@ -1,1 +1,1 @@
-first commit
+随笔
