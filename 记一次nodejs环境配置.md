@@ -58,7 +58,7 @@ pm2  项目管理工具
 
    pm2 list   查看项目列表
 
-![1544449095086](assets/1544449095086.png)
+![img](https://raw.githubusercontent.com/professorZhu/images/master/node/1544449095086.png) 
 
 pm2 stop 1 关闭id =1 的服务
 
